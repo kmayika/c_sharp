@@ -1,0 +1,11 @@
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/bin/Debug/netcoreapp2.2/listing_1_5.deps.json
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/bin/Debug/netcoreapp2.2/listing_1_5.runtimeconfig.json
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/bin/Debug/netcoreapp2.2/listing_1_5.runtimeconfig.dev.json
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/bin/Debug/netcoreapp2.2/listing_1_5.dll
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/bin/Debug/netcoreapp2.2/listing_1_5.pdb
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.csprojAssemblyReference.cache
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.csproj.CoreCompileInputs.cache
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.AssemblyInfoInputs.cache
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.AssemblyInfo.cs
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.dll
+/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/Debug/netcoreapp2.2/listing_1_5.pdb
