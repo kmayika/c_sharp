@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/kwezimayikana/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kwezim\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/listing_1_5.csproj",
+      "projectUniqueName": "c:\\Users\\kwezim\\Documents\\PoE\\c_sharp\\objective_1_1\\listing_1_5\\listing_1_5.csproj",
       "projectName": "listing_1_5",
-      "projectPath": "/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/listing_1_5.csproj",
-      "packagesPath": "/Users/kwezimayikana/.nuget/packages/",
-      "outputPath": "/Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_5/obj/",
+      "projectPath": "c:\\Users\\kwezim\\Documents\\PoE\\c_sharp\\objective_1_1\\listing_1_5\\listing_1_5.csproj",
+      "packagesPath": "C:\\Users\\kwezim\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\kwezim\\Documents\\PoE\\c_sharp\\objective_1_1\\listing_1_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kwezimayikana/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kwezim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

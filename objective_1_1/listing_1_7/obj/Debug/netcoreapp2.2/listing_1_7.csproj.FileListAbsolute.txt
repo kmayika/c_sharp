@@ -9,3 +9,14 @@
 /Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_7/obj/Debug/netcoreapp2.2/listing_1_7.AssemblyInfo.cs
 /Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_7/obj/Debug/netcoreapp2.2/listing_1_7.dll
 /Users/kwezimayikana/Documents/PoE/c#/chapter_1/objective_1_1/listing_1_7/obj/Debug/netcoreapp2.2/listing_1_7.pdb
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\bin\Debug\netcoreapp2.2\listing_1_7.deps.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\bin\Debug\netcoreapp2.2\listing_1_7.runtimeconfig.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\bin\Debug\netcoreapp2.2\listing_1_7.runtimeconfig.dev.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\bin\Debug\netcoreapp2.2\listing_1_7.dll
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\bin\Debug\netcoreapp2.2\listing_1_7.pdb
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.csprojAssemblyReference.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.csproj.CoreCompileInputs.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.AssemblyInfoInputs.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.AssemblyInfo.cs
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.dll
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_7\obj\Debug\netcoreapp2.2\listing_1_7.pdb

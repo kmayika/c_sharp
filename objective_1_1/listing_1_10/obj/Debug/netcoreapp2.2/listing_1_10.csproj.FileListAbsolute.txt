@@ -1,0 +1,11 @@
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\bin\Debug\netcoreapp2.2\listing_1_10.deps.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\bin\Debug\netcoreapp2.2\listing_1_10.runtimeconfig.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\bin\Debug\netcoreapp2.2\listing_1_10.runtimeconfig.dev.json
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\bin\Debug\netcoreapp2.2\listing_1_10.dll
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\bin\Debug\netcoreapp2.2\listing_1_10.pdb
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.csprojAssemblyReference.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.csproj.CoreCompileInputs.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.AssemblyInfoInputs.cache
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.AssemblyInfo.cs
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.dll
+C:\Users\kwezim\Documents\PoE\c_sharp\objective_1_1\listing_1_10\obj\Debug\netcoreapp2.2\listing_1_10.pdb
